@@ -189,7 +189,7 @@ font-align:center;
   font-size: 100px;
   margin-right: 50px;
   margin-left: 50px;
-  margin-bottom: 200px;
+  margin-bottom: 50px;
 }
 .fa-facebook {
   color: #3B5998;
@@ -207,4 +207,13 @@ font-align:center;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
+}
+footer{
+  font-size: 50px;
+  text-align:center;
+  font-weight: 700;
+  font-style: italic;
+  color:blue;
+  background-image: linear-gradient(to right, #ff6666,#ffff66);
+  text-shadow: 3px 3px 5px #E70D11;
 }
